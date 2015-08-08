@@ -10,3 +10,19 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.settings
+build
+bin
+.DS_Store
+/desktop/.DS_Store
+/desktop/bin
+.project
+/desktop/.settings
+/desktop/build
+/desktop/.classpath
+/core/.DS_Store
+/core/bin
+/core/build/
+/core/.porject
+/core/.classpath
