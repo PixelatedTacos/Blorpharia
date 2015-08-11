@@ -26,3 +26,4 @@ bin
 /core/build/
 /core/.porject
 /core/.classpath
+!/gradle/wrapper/*
